@@ -17,7 +17,9 @@ https://github.com/oxwhirl/smac/tree/master/smac/env/starcraft2/maps/SMAC_Maps
 C:\Program Files (x86)\StarCraft II\Maps\SMAC_Maps
 
 본 논문에서 사용한 동적 환경은 DynamicMaps 내부에 있습니다. 이 파일들도 상위 경로에 넣어 주시면 됩니다.
+
 Training Env : Dynamic_env_Training.SC2Map
+
 Testing Env : Dynamic_env_Test1.SC2Map
 
 
