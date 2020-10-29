@@ -15,27 +15,6 @@ This will download SC2 into the 3rdparty folder and copy the maps necessary to r
 
 The requirements.txt file can be used to install the necessary packages into a virtual environment (not recomended).
 
-## Run an experiment 
-
-```shell
-python3 src/main.py --config=qmix --env-config=sc2 with env_args.map_name=2s3z
-```
-
-The config files act as defaults for an algorithm or environment. 
-
-They are all located in `src/config`.
-`--config` refers to the config files in `src/config/algs`
-`--env-config` refers to the config files in `src/config/envs`
-
-To run experiments using the Docker container:
-```shell
-bash run.sh $GPU python3 src/main.py --config=qmix --env-config=sc2 with env_args.map_name=2s3z
-```
-
-All results will be stored in the `Results` folder.
-
-The previous config files used for the SMAC Beta have the suffix `_beta`.
-
 ## Saving and loading learnt models
 
 ### Saving models
