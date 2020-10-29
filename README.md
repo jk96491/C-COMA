@@ -3,7 +3,7 @@
 
 아키텍쳐
 
-<img src="https://user-images.githubusercontent.com/17878413/97534231-f9e63a00-19fc-11eb-8f9e-397e3061c777.png" width="80%"></img>
+<img src="https://user-images.githubusercontent.com/17878413/97534231-f9e63a00-19fc-11eb-8f9e-397e3061c777.png" width="90%"></img>
 
 동적환경 
 
