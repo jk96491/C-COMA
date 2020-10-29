@@ -8,7 +8,7 @@ import config_util as cu
 '''
 algorithm 설정 가이드(config/algs 경로의 파일이름 그대로)
 만일 QMIX 를 실행하고 싶다면 -> 'QMIX'
-만일 C-COMA 를 실행하고 싶다면 -> 'COMA'
+만일 C-COMA 를 실행하고 싶다면 -> 'C-COMA'
 '''
 
 if __name__ == '__main__':
