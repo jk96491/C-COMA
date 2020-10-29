@@ -33,24 +33,6 @@ Training Env : Dynamic_env_Training.SC2Map
 
 Testing Env : Dynamic_env_Test1.SC2Map
 
-
-# 이제부터는 환경 설정입니다.
-우선적으로 필요한 패키지 설치를 위해 아래와 같이 명령을 넣어 주세요
- ```shell
-pip install -r requirements.txt
-```
-안타깝게도 아래 두가지는 직접 설치 해야 합니다.(어렵지 않습니다.)
-
-cloudpickle을 설치 해야 합니다.
- ```shell
-pip install cloudpickle
-```
-pytorch도 설치해야 합니다.
- ```shell
-conda install pytorch==1.2.0 torchvision==0.4.0 -c pytorch
-```
-마지막으로 main.py를 실행 하시면 됩니다.
-
 ## Installation instructions
 
 Build the Dockerfile using 
