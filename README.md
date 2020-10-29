@@ -1,8 +1,7 @@
 # C-COMA
 동적 환경에서의 지속적인 다중 에이전트 강화 학습
 
-아키텍쳐
-<img src="https://user-images.githubusercontent.com/17878413/97534231-f9e63a00-19fc-11eb-8f9e-397e3061c777.png" width="50%"></img>
+아키텍쳐<img src="https://user-images.githubusercontent.com/17878413/97534231-f9e63a00-19fc-11eb-8f9e-397e3061c777.png" width="50%"></img>
 
 동적환경 
 <img src="https://user-images.githubusercontent.com/17878413/97533656-f56d5180-19fb-11eb-8f8c-3d4d468fa1f9.png" width="50%"></img>
