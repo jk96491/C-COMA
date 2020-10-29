@@ -1,3 +1,36 @@
+# 스타크래프트2 멀티 에이전트 챌린지
+본 자료는 Windows 운영체제에서 편리하게 실행하기 위해 편집한 가이드 .
+
+가장 먼저 스타크래프트2 게임을 설치 하여야 합니다. 체험판도 상관 없습니다. 아래 링크에서 다운 받으세요
+
+https://starcraft2.com/ko-kr/
+
+설치 후 아래 링크에서 미니게임에 필요한 맵을 다운로드 받아야 합니다.
+
+https://github.com/oxwhirl/smac/tree/master/smac/env/starcraft2/maps/SMAC_Maps
+
+다운 받은 파일을 아래 경로에 모두 옮겨 주시면 됩니다.
+
+C:\Program Files (x86)\StarCraft II\Maps\SMAC_Maps
+
+
+# 이제부터는 환경 설정입니다.
+우선적으로 필요한 패키지 설치를 위해 아래와 같이 명령을 넣어 주세요
+ ```shell
+pip install -r requirements.txt
+```
+안타깝게도 아래 두가지는 직접 설치 해야 합니다.(어렵지 않습니다.)
+
+cloudpickle을 설치 해야 합니다.
+ ```shell
+pip install cloudpickle
+```
+pytorch도 설치해야 합니다.
+ ```shell
+conda install pytorch==1.2.0 torchvision==0.4.0 -c pytorch
+```
+마지막으로 main.py를 실행 하시면 됩니다.
+
 ## Installation instructions
 
 Build the Dockerfile using 
