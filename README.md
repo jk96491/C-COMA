@@ -2,7 +2,7 @@
 동적 환경에서의 지속적인 다중 에이전트 강화 학습
 
 # 스타크래프트2 멀티 에이전트 챌린지
-본 자료는 Windows 운영체제에서 편리하게 실행하기 위해 편집한 가이드 .
+본 자료는 Windows 운영체제에서 편리하게 실행하기 위해 편집한 가이드.
 
 가장 먼저 스타크래프트2 게임을 설치 하여야 합니다. 체험판도 상관 없습니다. 아래 링크에서 다운 받으세요
 
@@ -15,6 +15,10 @@ https://github.com/oxwhirl/smac/tree/master/smac/env/starcraft2/maps/SMAC_Maps
 다운 받은 파일을 아래 경로에 모두 옮겨 주시면 됩니다.
 
 C:\Program Files (x86)\StarCraft II\Maps\SMAC_Maps
+
+본 논문에서 사용한 동적 환경은 DynamicMaps 내부에 있습니다. 이 파일들도 상위 경로에 넣어 주시면 됩니다.
+Training Env : Dynamic_env_Training.SC2Map
+Testing Env : Dynamic_env_Test1.SC2Map
 
 
 # 이제부터는 환경 설정입니다.
