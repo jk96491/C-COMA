@@ -1,7 +1,7 @@
 # C-COMA
 동적 환경에서의 지속적인 다중 에이전트 강화 학습
 
-<img src="https://user-images.githubusercontent.com/17878413/97533656-f56d5180-19fb-11eb-8f8c-3d4d468fa1f9.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/17878413/97533656-f56d5180-19fb-11eb-8f8c-3d4d468fa1f9.png" width="60%"></img>
 
 # 스타크래프트2 멀티 에이전트 챌린지
 본 자료는 Windows 운영체제에서 편리하게 실행하기 위해 편집한 가이드.
