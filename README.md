@@ -1,7 +1,7 @@
 # C-COMA
 <b>논문번호 : KIPS_C2020B0262</b>
 
-동적 환경에서의 지속적인 다중 에이전트 강화 학습
+동적 환경에서의 지속적인 다중 에이전트 강화 학습(Continual Multi-agent Reinforcement Learning in Dynamic Environments)
 
 <b> <font size="200">아키텍쳐 </font></b>
 
