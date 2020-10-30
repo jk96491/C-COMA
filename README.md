@@ -3,7 +3,7 @@
 
 동적 환경에서의 지속적인 다중 에이전트 강화 학습
 
-<b font size="20">아키텍쳐</b>
+<b> <font size="20">아키텍쳐 </font></b>
 
 <img src="https://user-images.githubusercontent.com/17878413/97534231-f9e63a00-19fc-11eb-8f9e-397e3061c777.png" width="90%"></img>
 
