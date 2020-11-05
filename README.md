@@ -19,21 +19,29 @@ This repository is a guide edited for convenient execution in the Windows OS.
 
 First you need to install the StarCraft 2 game. Trial version does not matter. Download it from the link below
 
+```shell
 https://starcraft2.com/ko-kr/
+```
 
 After installation, you should download the map required for the minigame from the link below.
 
+```shell
 https://github.com/oxwhirl/smac/tree/master/smac/env/starcraft2/maps/SMAC_Maps
+```
 
 You can move all downloaded files to the path below.
 
+```shell
 "C:\Program Files (x86)\StarCraft II\Maps\SMAC_Maps"
+```
 
 The dynamic environment used in this paper is inside DynamicMaps. You can put these files in the upper path.
 
+```shell
 Training Env : Dynamic_env_Training.SC2Map
 
 Testing Env : Dynamic_env_Test1.SC2Map
+```
 
 ## Installation instructions
 
