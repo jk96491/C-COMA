@@ -27,7 +27,7 @@ https://github.com/oxwhirl/smac/tree/master/smac/env/starcraft2/maps/SMAC_Maps
 
 You can move all downloaded files to the path below.
 
-C:\Program Files (x86)\StarCraft II\Maps\SMAC_Maps
+"C:\Program Files (x86)\StarCraft II\Maps\SMAC_Maps"
 
 The dynamic environment used in this paper is inside DynamicMaps. You can put these files in the upper path.
 
