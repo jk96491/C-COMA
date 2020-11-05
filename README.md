@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/17878413/97533679-fa320580-19fb-11eb-9db1-10e7f6169bfb.png" width="50%"></img>
 
 
-# StarCraft2 Multi Agent Challenge
+# StarCraft II Multi Agent Challenge
 This repository is a guide edited for convenient execution in the Windows OS.
 
 First you need to install the StarCraft 2 game. Trial version does not matter. Download it from the link below
