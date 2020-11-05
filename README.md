@@ -3,33 +3,33 @@
 
 동적 환경에서의 지속적인 다중 에이전트 강화 학습(Continual Multi-agent Reinforcement Learning in Dynamic Environments)
 
-<b> <font size="200">아키텍쳐 </font></b>
+<b> <font size="200">Architecture</font></b>
 
 <img src="https://user-images.githubusercontent.com/17878413/97534231-f9e63a00-19fc-11eb-8f9e-397e3061c777.png" width="90%"></img>
 
-<b>동적환경</b> 
+<b>Dynamic environment Image</b> 
 
 <img src="https://user-images.githubusercontent.com/17878413/97533656-f56d5180-19fb-11eb-8f8c-3d4d468fa1f9.png" width="50%"></img>
 
 <img src="https://user-images.githubusercontent.com/17878413/97533679-fa320580-19fb-11eb-9db1-10e7f6169bfb.png" width="50%"></img>
 
 
-# 스타크래프트2 멀티 에이전트 챌린지
-본 자료는 Windows 운영체제에서 편리하게 실행하기 위해 편집한 가이드.
+# StarCraft2 Multi Agent Challenge
+This repository is a guide edited for convenient execution in the Windows OS.
 
-가장 먼저 스타크래프트2 게임을 설치 하여야 합니다. 체험판도 상관 없습니다. 아래 링크에서 다운 받으세요
+First you need to install the StarCraft 2 game. Trial version does not matter. Download it from the link below
 
 https://starcraft2.com/ko-kr/
 
-설치 후 아래 링크에서 미니게임에 필요한 맵을 다운로드 받아야 합니다.
+After installation, you should download the map required for the minigame from the link below.
 
 https://github.com/oxwhirl/smac/tree/master/smac/env/starcraft2/maps/SMAC_Maps
 
-다운 받은 파일을 아래 경로에 모두 옮겨 주시면 됩니다.
+You can move all downloaded files to the path below.
 
 C:\Program Files (x86)\StarCraft II\Maps\SMAC_Maps
 
-본 논문에서 사용한 동적 환경은 DynamicMaps 내부에 있습니다. 이 파일들도 상위 경로에 넣어 주시면 됩니다.
+The dynamic environment used in this paper is inside DynamicMaps. You can put these files in the upper path.
 
 Training Env : Dynamic_env_Training.SC2Map
 
