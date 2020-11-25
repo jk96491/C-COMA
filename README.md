@@ -3,8 +3,6 @@
 
 동적 환경에서의 지속적인 다중 에이전트 강화 학습(Continual Multi-agent Reinforcement Learning in Dynamic Environments)
 
-https://github.com/jk96491/C-COMA/blob/main/Paper/%EB%8F%99%EC%A0%81%20%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98%20%EC%A7%80%EC%86%8D%EC%A0%81%EC%9D%B8%20%EB%8B%A4%EC%A4%91%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%20%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5(KIPS_C2020B0262z).pdf
-
 <b> <font size="200">Architecture</font></b>
 
 <img src="https://user-images.githubusercontent.com/17878413/97534231-f9e63a00-19fc-11eb-8f9e-397e3061c777.png" width="90%"></img>
