@@ -1,7 +1,7 @@
 # C-COMA
 <b>논문번호 : KIPS_C2020B0262</b>
 
-- [**C-COMA**: C-COMA: A Continual Reinforcement Learning Model for Dynamic Multiagent Environments](http://ktsde.kips.or.kr/digital-library/24551)
+- [**C-COMA**: A Continual Reinforcement Learning Model for Dynamic Multiagent Environments](http://ktsde.kips.or.kr/digital-library/24551)
 
 <b> <font size="200">Architecture</font></b>
 
