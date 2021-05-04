@@ -5,7 +5,7 @@
 
 <b> <font size="200">Architecture</font></b>
 
-<img src="https://user-images.githubusercontent.com/17878413/97534231-f9e63a00-19fc-11eb-8f9e-397e3061c777.png" width="90%"></img>
+<img src="hhttps://user-images.githubusercontent.com/17878413/116950158-28501500-acbf-11eb-8813-4aa0fc42dab2.png" width="90%"></img>
 
 <b>Dynamic environment Image</b> 
 
